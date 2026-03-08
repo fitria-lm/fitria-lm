@@ -44,7 +44,21 @@ Building skills in **programming, design, data, and AI-assisted workflow** 🚀
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,js,mysql,vscode,figma,ps,ai,openai,google,obsidian&perline=6)](https://skillicons.dev)
+
+### 👨‍💻 Programming
+[![Programming](https://skillicons.dev/icons?i=py,cpp,html,css,js,mysql&perline=6)](https://skillicons.dev)
+
+### 🧰 Development Tools
+[![Tools](https://skillicons.dev/icons?i=vscode,notepadplusplus&perline=6)](https://skillicons.dev)
+
+### 🤖 AI Tools
+[![AI](https://skillicons.dev/icons?i=openai,google&perline=6)](https://skillicons.dev)
+
+### 📝 Notes & Productivity
+[![Productivity](https://skillicons.dev/icons?i=obsidian,notion&perline=6)](https://skillicons.dev)
+
+### 🎨 Design
+[![Design](https://skillicons.dev/icons?i=figma,ps,ai&perline=6)](https://skillicons.dev)
 ---
 
 ## 🔗 Let's Connect
