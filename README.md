@@ -29,7 +29,7 @@ Building skills in **programming, design, data, and AI-assisted workflow** 🚀
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-111111?style=for-the-badge)
 ![Kimi](https://img.shields.io/badge/Kimi-AI-000000?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-AI-F4C430?style=for-the-badge)
-[![AI](https://skillicons.dev/icons?i=openai,google&perline=6)](https://skillicons.dev)
+[![AI](https://skillicons.dev/icons?i=claude,openai,google&perline=6)](https://skillicons.dev)
 
 ### 📝 Notes & Productivity
 ![Google Keep](https://img.shields.io/badge/Google_Keep-FFBB00?style=for-the-badge&logo=googlekeep&logoColor=white)
