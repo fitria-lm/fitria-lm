@@ -43,7 +43,8 @@ Building skills in **programming, design, data, and AI-assisted workflow** 🚀
 ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
+## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,js,mysql,vscode,figma,ps,ai,openai,google,obsidian&perline=6)](https://skillicons.dev)
 ---
 
 ## 🔗 Let's Connect
