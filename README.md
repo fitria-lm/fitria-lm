@@ -49,13 +49,13 @@ Building skills in **programming, design, data, and AI-assisted workflow** 🚀
 [![Programming](https://skillicons.dev/icons?i=py,cpp,html,css,js,mysql&perline=6)](https://skillicons.dev)
 
 ### 🧰 Development Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,notepadplusplus&perline=6)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,xampp,laragon,notepadplusplus&perline=6)](https://skillicons.dev)
 
 ### 🤖 AI Tools
 [![AI](https://skillicons.dev/icons?i=openai,google&perline=6)](https://skillicons.dev)
 
 ### 📝 Notes & Productivity
-[![Productivity](https://skillicons.dev/icons?i=obsidian,notion&perline=6)](https://skillicons.dev)
+[![Productivity](https://skillicons.dev/icons?i=obsidian,notion,keep&perline=6)](https://skillicons.dev)
 
 ### 🎨 Design
 [![Design](https://skillicons.dev/icons?i=figma,ps,ai&perline=6)](https://skillicons.dev)
