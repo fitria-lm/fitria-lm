@@ -18,7 +18,6 @@ Building skills in **programming, design, data, and AI-assisted workflow** 🚀
 
 ### 🧰 Development Tools
 [![Tools](https://skillicons.dev/icons?i=vscode,xampp,laragon,notepadplusplus&perline=6)](https://skillicons.dev)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
