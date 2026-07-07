@@ -84,23 +84,23 @@ I'm passionate about building skills in **programming, UI/UX design, data analys
 <p align="left">
 
 <a href="https://chatgpt.com/" target="_blank">
-<img src="./assets/icons/chatgpt.svg" height="48" alt="ChatGPT"/>
+<img src="./assets/icons/chatgpt.svg" height="48" hspace="3" alt="ChatGPT"/>
 </a>
 
 <a href="https://gemini.google.com/" target="_blank">
-<img src="./assets/icons/gemini.svg" height="48" alt="Gemini"/>
+<img src="./assets/icons/gemini.svg" height="54" hspace="3" alt="Gemini"/>
 </a>
 
 <a href="https://claude.ai/" target="_blank">
-<img src="./assets/icons/claude.svg" height="48" alt="Claude"/>
+<img src="./assets/icons/claude.svg" height="48" hspace="3" alt="Claude"/>
 </a>
 
 <a href="https://www.deepseek.com/" target="_blank">
-<img src="./assets/icons/deepseek.svg" height="48" alt="DeepSeek"/>
+<img src="./assets/icons/deepseek.svg" height="48" hspace="3" alt="DeepSeek"/>
 </a>
 
 <a href="https://kimi.ai/" target="_blank">
-<img src="./assets/icons/kimi.svg" height="48" alt="Kimi"/>
+<img src="./assets/icons/kimi.svg" height="48" hspace="3" alt="Kimi"/>
 </a>
 
 </p>
@@ -126,46 +126,32 @@ I'm passionate about building skills in **programming, UI/UX design, data analys
 
 
 ## 🎨 Design Tools
-
 <p align="left">
-
 <a href="https://www.figma.com/" target="_blank">
 <img src="./assets/icons/figma.svg" height="48" alt="Figma"/>
 </a>
-
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
 <img src="./assets/icons/photoshop.svg" height="48" alt="Photoshop"/>
 </a>
-
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
 <img src="./assets/icons/illustrator.svg" height="48" alt="Illustrator"/>
 </a>
+</p>
 
+## 📈 GitHub Stats
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fitria-lm&show_icons=true&theme=transparent"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitria-lm&layout=compact&theme=transparent"/>
 </p>
 
 ---
 
 # 🔗 Let's Connect
 
-<p>
+- 📷 **Instagram:** [@fitr.lm](https://instagram.com/fitr.lm)
+- ✍️ **Medium:** [@fitria-lm](https://medium.com/@fitria-lm)
+- 💼 **LinkedIn:** [Fitria LM](https://linkedin.com/in/fitria-lm)
+- 📧 **Email:** fitrialm26@gmail.com
 
-<a href="https://www.instagram.com/fitr.lm/">
-<img src="./assets/icons/instagram.svg" height="48"/>
-</a>
-
-<a href="https://medium.com/@fitria-lm">
-<img src="./assets/icons/medium.svg" height="48"/>
-</a>
-
-<a href="https://www.linkedin.com/in/fitria-lm/">
-<img src="./assets/icons/linkedin.svg" height="48"/>
-</a>
-
-<a href="mailto:fitrialm26@gmail.com">
-<img src="./assets/icons/gmail.svg" height="48"/>
-</a>
-
-</p>
-
-Explore my repositories to see my learning journey. 
-Learning in public, one commit at a time ✨
+Explore my repositories to see my learning journey.
+> *Learning in public, one commit at a time.* ✨
