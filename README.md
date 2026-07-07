@@ -22,27 +22,27 @@ I'm passionate about building skills in **programming, UI/UX design, data analys
 <p align="left">
 
 <a href="https://www.python.org/" target="_blank">
-<img src="./assets/icons/python.svg" height="48" alt="Python"/>
+<img src="./assets/icons/python.svg" height="48" hspace="3" alt="Python"/>
 </a>
 
 <a href="https://isocpp.org/" target="_blank">
-<img src="./assets/icons/cpp.svg" height="48" alt="C++"/>
+<img src="./assets/icons/cpp.svg" height="48" hspace="3" alt="C++"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
-<img src="./assets/icons/mysql.svg" height="48" alt="MySQL"/>
+<img src="./assets/icons/mysql.svg" height="48" hspace="3" alt="MySQL"/>
 </a>
 
 <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-<img src="./assets/icons/html.svg" height="48" alt="HTML"/>
+<img src="./assets/icons/html.svg" height="48" hspace="3" alt="HTML"/>
 </a>
 
 <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
-<img src="./assets/icons/css.svg" height="48" alt="CSS"/>
+<img src="./assets/icons/css.svg" height="48" hspace="3" alt="CSS"/>
 </a>
 
 <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-<img src="./assets/icons/javascript.svg" height="48" alt="JavaScript"/>
+<img src="./assets/icons/javascript.svg" height="48" hspace="3" alt="JavaScript"/>
 </a>
 
 </p>
@@ -53,27 +53,27 @@ I'm passionate about building skills in **programming, UI/UX design, data analys
 <p align="left">
 
 <a href="https://code.visualstudio.com/" target="_blank">
-<img src="./assets/icons/vscode.svg" height="48" alt="VS Code"/>
+<img src="./assets/icons/vscode.svg" height="48" hspace="3" alt="VS Code"/>
 </a>
 
 <a href="https://notepad-plus-plus.org/" target="_blank">
-<img src="./assets/icons/notepadpp.svg" height="48" alt="Notepad++"/>
+<img src="./assets/icons/notepadpp.svg" height="48" hspace="3" alt="Notepad++"/>
 </a>
 
 <a href="https://www.apachefriends.org/" target="_blank">
-<img src="./assets/icons/xampp.svg" height="48" alt="XAMPP"/>
+<img src="./assets/icons/xampp.svg" height="48" hspace="3" alt="XAMPP"/>
 </a>
 
 <a href="https://laragon.org/" target="_blank">
-<img src="./assets/icons/laragon.svg" height="48" alt="Laragon"/>
+<img src="./assets/icons/laragon.svg" height="48" hspace="3" alt="Laragon"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="./assets/icons/git.svg" height="48" alt="Git"/>
+<img src="./assets/icons/git.svg" height="48" hspace="3" alt="Git"/>
 </a>
 
 <a href="https://github.com/" target="_blank">
-<img src="./assets/icons/github.svg" height="48" alt="GitHub"/>
+<img src="./assets/icons/github.svg" height="48" hspace="3" alt="GitHub"/>
 </a>
 
 </p>
@@ -88,7 +88,7 @@ I'm passionate about building skills in **programming, UI/UX design, data analys
 </a>
 
 <a href="https://gemini.google.com/" target="_blank">
-<img src="./assets/icons/gemini.svg" height="54" hspace="3" alt="Gemini"/>
+<img src="./assets/icons/gemini.svg" height="48" hspace="3" alt="Gemini"/>
 </a>
 
 <a href="https://claude.ai/" target="_blank">
@@ -111,15 +111,15 @@ I'm passionate about building skills in **programming, UI/UX design, data analys
 <p align="left">
 
 <a href="https://www.notion.so/" target="_blank">
-<img src="./assets/icons/notion.svg" height="48" alt="Notion"/>
+<img src="./assets/icons/notion.svg" height="48" hspace="3" alt="Notion"/>
 </a>
 
 <a href="https://obsidian.md/" target="_blank">
-<img src="./assets/icons/obsidian.svg" height="48" alt="Obsidian"/>
+<img src="./assets/icons/obsidian.svg" height="48" hspace="3" alt="Obsidian"/>
 </a>
 
 <a href="https://keep.google.com/" target="_blank">
-<img src="./assets/icons/googlekeep.svg" height="48" alt="Google Keep"/>
+<img src="./assets/icons/googlekeep.svg" height="48" hspace="3" alt="Google Keep"/>
 </a>
 
 </p>
@@ -128,13 +128,13 @@ I'm passionate about building skills in **programming, UI/UX design, data analys
 ## 🎨 Design Tools
 <p align="left">
 <a href="https://www.figma.com/" target="_blank">
-<img src="./assets/icons/figma.svg" height="48" alt="Figma"/>
+<img src="./assets/icons/figma.svg" height="48" hspace="3" alt="Figma"/>
 </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-<img src="./assets/icons/photoshop.svg" height="48" alt="Photoshop"/>
+<img src="./assets/icons/photoshop.svg" height="48" hspace="3" alt="Photoshop"/>
 </a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-<img src="./assets/icons/illustrator.svg" height="48" alt="Illustrator"/>
+<img src="./assets/icons/illustrator.svg" height="48" hspace="3" alt="Illustrator"/>
 </a>
 </p>
 
