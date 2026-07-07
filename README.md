@@ -1,47 +1,180 @@
 # 👋 Hi, I'm Fitria!
 
-🎓 Student | 💻 Tech & UI/UX Enthusiast  
-Building skills in **programming, design, data, and AI-assisted workflow** 🚀  
+🎓 Computer Science Student | 💻 Tech & UI/UX Enthusiast
+
+I'm passionate about building skills in **programming, UI/UX design, data analysis, and AI-assisted workflows**. I enjoy learning in public and continuously improving through personal projects.
+
+---
 
 ## 📌 Interests
-- Web & App Development  
-- UI/UX & Design Systems  
-- Data & Analytics  
-- AI tools for productivity
+
+- 🌐 Web Development
+- 📱 Mobile App Development
+- 🎨 UI/UX Design & Design Systems
+- 📊 Data Analysis & Visualization
+- 🤖 AI for Productivity
+- 📚 Continuous Learning
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-[![Programming](https://skillicons.dev/icons?i=py,cpp,mysql,html,css,js&perline=6)](https://skillicons.dev)
+## 👨‍💻 Programming Languages
 
-### 🧰 Development Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,xampp,laragon,notepadplusplus&perline=6)](https://skillicons.dev)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
+<p align="left">
 
-### 🤖 AI Tools
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-111111?style=for-the-badge)
-![Kimi](https://img.shields.io/badge/Kimi-AI-000000?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-AI-F4C430?style=for-the-badge)
-[![AI](https://skillicons.dev/icons?i=claude,openai,google&perline=6)](https://skillicons.dev)
+<a href="https://www.python.org/" target="_blank">
+<img src="./assets/icons/python.svg" height="48" alt="Python"/>
+</a>
 
-### 📝 Notes & Productivity
-[![Productivity](https://skillicons.dev/icons?i=notion,obsidian,keep&perline=6)](https://skillicons.dev)
-![Google Keep](https://img.shields.io/badge/Google_Keep-FFBB00?style=for-the-badge&logo=googlekeep&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+<a href="https://isocpp.org/" target="_blank">
+<img src="./assets/icons/cpp.svg" height="48" alt="C++"/>
+</a>
 
-### 🎨 Design Tools
-[![Design](https://skillicons.dev/icons?i=figma,ps,ai&perline=6)](https://skillicons.dev)
+<a href="https://www.mysql.com/" target="_blank">
+<img src="./assets/icons/mysql.svg" height="48" alt="MySQL"/>
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+<img src="./assets/icons/html.svg" height="48" alt="HTML"/>
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+<img src="./assets/icons/css.svg" height="48" alt="CSS"/>
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+<img src="./assets/icons/javascript.svg" height="48" alt="JavaScript"/>
+</a>
+
+</p>
 
 ---
 
-## 🔗 Let's Connect
-Explore my repositories to see my learning journey.  
-Learning in public, one commit at a time ✨  
+## 🧰 Development Tools
+
+<p align="left">
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="./assets/icons/vscode.svg" height="48" alt="VS Code"/>
+</a>
+
+<a href="https://notepad-plus-plus.org/" target="_blank">
+<img src="./assets/icons/notepadpp.svg" height="48" alt="Notepad++"/>
+</a>
+
+<a href="https://www.apachefriends.org/" target="_blank">
+<img src="./assets/icons/xampp.svg" height="48" alt="XAMPP"/>
+</a>
+
+<a href="https://laragon.org/" target="_blank">
+<img src="./assets/icons/laragon.svg" height="48" alt="Laragon"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="./assets/icons/git.svg" height="48" alt="Git"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="./assets/icons/github.svg" height="48" alt="GitHub"/>
+</a>
+
+</p>
+
+---
+
+## 🤖 AI Tools
+
+<p align="left">
+
+<a href="https://chatgpt.com/" target="_blank">
+<img src="./assets/icons/chatgpt.svg" height="48" alt="ChatGPT"/>
+</a>
+
+<a href="https://gemini.google.com/" target="_blank">
+<img src="./assets/icons/gemini.svg" height="48" alt="Gemini"/>
+</a>
+
+<a href="https://claude.ai/" target="_blank">
+<img src="./assets/icons/claude.svg" height="48" alt="Claude"/>
+</a>
+
+<a href="https://www.deepseek.com/" target="_blank">
+<img src="./assets/icons/deepseek.svg" height="48" alt="DeepSeek"/>
+</a>
+
+<a href="https://kimi.ai/" target="_blank">
+<img src="./assets/icons/kimi.svg" height="48" alt="Kimi"/>
+</a>
+
+</p>
+
+---
+
+## 📝 Notes & Productivity
+
+<p align="left">
+
+<a href="https://www.notion.so/" target="_blank">
+<img src="./assets/icons/notion.svg" height="48" alt="Notion"/>
+</a>
+
+<a href="https://obsidian.md/" target="_blank">
+<img src="./assets/icons/obsidian.svg" height="48" alt="Obsidian"/>
+</a>
+
+<a href="https://keep.google.com/" target="_blank">
+<img src="./assets/icons/googlekeep.svg" height="48" alt="Google Keep"/>
+</a>
+
+</p>
+
+---
+
+## 🎨 Design Tools
+
+<p align="left">
+
+<a href="https://www.figma.com/" target="_blank">
+<img src="./assets/icons/figma.svg" height="48" alt="Figma"/>
+</a>
+
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+<img src="./assets/icons/photoshop.svg" height="48" alt="Photoshop"/>
+</a>
+
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+<img src="./assets/icons/illustrator.svg" height="48" alt="Illustrator"/>
+</a>
+
+</p>
+
+---
+
+# 🔗 Let's Connect
+
+<p>
+
+<a href="https://www.instagram.com/fitr.lm/">
+<img src="./assets/icons/instagram.svg" height="48"/>
+</a>
+
+<a href="https://medium.com/@fitria-lm">
+<img src="./assets/icons/medium.svg" height="48"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fitria-lm/">
+<img src="./assets/icons/linkedin.svg" height="48"/>
+</a>
+
+<a href="mailto:fitrialm26@gmail.com">
+<img src="./assets/icons/gmail.svg" height="48"/>
+</a>
+
+</p>
+
+---
+
+> *Learning in public, one commit at a time.* ✨
 
 ⭐ Thanks for visiting my profile!
