@@ -4,14 +4,12 @@
 
 I'm passionate about building skills in **programming, UI/UX design, data analysis, and AI-assisted workflows**. I enjoy learning in public and continuously improving through personal projects.
 
----
-
 ## 📌 Interests
 
 - 🌐 Web Development
 - 📱 Mobile App Development
-- 🎨 UI/UX Design & Design Systems
-- 📊 Data Analysis & Visualization
+- 🎨 UI/UX Design
+- 📊 Data Analysis
 - 🤖 AI for Productivity
 - 📚 Continuous Learning
 
@@ -49,7 +47,6 @@ I'm passionate about building skills in **programming, UI/UX design, data analys
 
 </p>
 
----
 
 ## 🧰 Development Tools
 
@@ -81,7 +78,6 @@ I'm passionate about building skills in **programming, UI/UX design, data analys
 
 </p>
 
----
 
 ## 🤖 AI Tools
 
@@ -109,7 +105,6 @@ I'm passionate about building skills in **programming, UI/UX design, data analys
 
 </p>
 
----
 
 ## 📝 Notes & Productivity
 
@@ -129,7 +124,6 @@ I'm passionate about building skills in **programming, UI/UX design, data analys
 
 </p>
 
----
 
 ## 🎨 Design Tools
 
@@ -173,8 +167,5 @@ I'm passionate about building skills in **programming, UI/UX design, data analys
 
 </p>
 
----
-
-> *Learning in public, one commit at a time.* ✨
-
-⭐ Thanks for visiting my profile!
+Explore my repositories to see my learning journey. 
+Learning in public, one commit at a time ✨
